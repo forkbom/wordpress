@@ -1315,7 +1315,7 @@ function Kratos_admin_notice() {
     }
   </style>
   <div class="notice notice-info">
-  <p class="about-description">嗨，欢迎使用 Kratos 主题开始文章创作，欢迎您加入主题 QQ 交流群：<a target="_blank" rel="nofollow" href="//shang.qq.com/wpa/qunwpa?idkey=6ee0cc94b247fe4a068be7442b38fce2850485422ec9d655f0a60563ae00bdd2">734508</a> ，如果发现任何 BUG 或者您有什么好的建议，请按照页面给出的提示提交<a target="_blank" rel="nofollow" href="https://github.com/Vtrois/Kratos/issues/new"> Issues </a>。</p>
+  <p class="about-description">嗨，欢迎使用 wordpress 主题开始文章创作，欢迎您加入主题 QQ 交流群：<a target="_blank" rel="nofollow" href="//shang.qq.com/wpa/qunwpa?idkey=6ee0cc94b247fe4a068be7442b38fce2850485422ec9d655f0a60563ae00bdd2">850544965</a> ，如果发现任何 BUG 或者您有什么好的建议，请按照页面给出的提示提交<a target="_blank" rel="nofollow" href="https://github.com/forkbom/wordpress/issues/new"> Issues </a>。</p>
   </div>
   <?php
 }

@@ -62,12 +62,6 @@ get_header('banner'); ?>
 							</div>
 						</footer>
 					</div>
-					<?php if ( kratos_option( 'post_cc', true ) ) { ?>
-					<div class="kratos-hentry kratos-copyright text-center clearfix">
-						<img alt="知识共享许可协议" src="<?php echo get_template_directory_uri(); ?>/images/licenses.png">
-						<h5>本作品采用 <a rel="license nofollow" target="_blank" href="http://creativecommons.org/licenses/by-sa/4.0/">知识共享署名-相同方式共享 4.0 国际许可协议</a> 进行许可</h5>
-					</div>
-					<?php } ?>
 					<nav class="navigation post-navigation clearfix" role="navigation">
 						<?php
 						$prev_post = get_previous_post(TRUE);

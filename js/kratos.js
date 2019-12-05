@@ -238,7 +238,7 @@
 	}
 
 	var copyright = function() {
-		console.log("项目托管：https://github.com/Vtrois/Kratos");
+		console.log("项目托管：https://github.com/forkbom/wordpress");
 	}
 
 	$(function() {
